@@ -30,3 +30,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"
 width=100px>
 <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" width=100px>
+
+  
+## Demo
+![Demo](src/gif.gif)
